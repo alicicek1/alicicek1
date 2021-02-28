@@ -16,13 +16,15 @@
  - 🌱 I'm currently learning JavaScritp, ReactJS.
  - 📫 How to reach me: malicicek1@gmail.com
  - 📍 Istanbul - TURKEY
+ 
+<hr>
+ 
+<h4 align="center">Top langs :tongue:</h4>
 
-<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" /></p>
 
----
-
-<br/>
-
+<hr>
+ 
   ## 🔮 Tools, Technologies and Languages
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="visualStudio" width="40" height="40" />
