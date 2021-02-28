@@ -37,10 +37,14 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGA_Vn2q5yCCEnB7qAT5IkwXvVfUB-pYEAQ&usqp=CAU" alt="jira" width="120" height="40" />
    <img src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg" alt="slack" width="60" height="40" />
 </p>
-    
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<hr>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/-Ali%20ÇİÇEK-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
  <h4 align="right">Visitor's count :eyes:</h4>
  
