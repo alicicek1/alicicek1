@@ -19,16 +19,12 @@
  
 <hr>
  
-<h4 align="center">Top langs :tongue:</h4>
+  ## 🔮 Tools, Technologies and Languages
 
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" /></p>
    [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/alicicek1/github-readme-stats)
 
-  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
-</p>
 
-<hr>
- 
-  ## 🔮 Tools, Technologies and Languages
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="visualStudio" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
