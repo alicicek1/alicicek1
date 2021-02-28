@@ -46,12 +46,6 @@
 <a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/m.alicicek-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
- <h4 align="right">Visitor's count :eyes:</h4>
- 
- <p align="right"><img src="https://profile-counter.glitch.me/{alicicek1}/count.svg" alt="alicicek1 :: Visitor's Count" /></p>
- 
- <hr>
-
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
@@ -83,4 +77,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 ----
-Credit: [Ali](https://github.com/alicicek1)
+Credit: [Ali](https://github.com/alicicek1) <p align="right"><img src="https://profile-counter.glitch.me/{alicicek1}/count.svg" alt="alicicek1 :: Visitor's Count" /></p>
