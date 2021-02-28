@@ -72,12 +72,11 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
-    <img src="/parrots/hd/maracasparrot.gif" class="lazy" data-src="/parrots/hd/maracasparrot.gif" alt="Maracas Parrot">
-    <img src="/parrots/hd/maracasparrot.gif" class="lazy" data-src="/parrots/hd/maracasparrot.gif" alt="Maracas Parrot">
-    <img src="/parrots/hd/maracasparrot.gif" class="lazy" data-src="/parrots/hd/maracasparrot.gif" alt="Maracas Parrot">
-    <img src="/parrots/hd/maracasparrot.gif" class="lazy" data-src="/parrots/hd/maracasparrot.gif" alt="Maracas Parrot">
-    <img src="/parrots/hd/maracasparrot.gif" class="lazy" data-src="/parrots/hd/maracasparrot.gif" alt="Maracas Parrot">
-    <img src="/parrots/hd/maracasparrot.gif" class="lazy" data-src="/parrots/hd/maracasparrot.gif" alt="Maracas Parrot">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
+   <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
+   <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
+   <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
+   <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
 </div>
 
 
