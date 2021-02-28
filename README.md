@@ -77,4 +77,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 ----
-Credit: [Ali](https://github.com/alicicek1) [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ali-cicek/)<img align="right" src="https://profile-counter.glitch.me/{alicicek1}/count.svg" alt="alicicek1 :: Visitor's Count" />
+Credit: [Ali](https://github.com/alicicek1) [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ali-cicek/)<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=alicicek1.visitor-badge" alt="alicicek1 :: Visitor's Count" />
