@@ -21,9 +21,9 @@
  
 <h4 align="center">Top langs :tongue:</h4>
 
-   [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)]           (https://github.com/anuraghazra/github-readme-stats)
+   [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/alicicek1/github-readme-stats)
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
 </p>
 
 <hr>
