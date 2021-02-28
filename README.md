@@ -6,6 +6,12 @@
   <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" alt="Welcome!" width="300" />
 </div>
 
+<br/>
+
+---
+
+<br/>
+
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
  
 **I'm Ali ÇİÇEK, a Mechatronic Engineer who is Backend Developer.**
@@ -13,6 +19,12 @@
  - 🌱 I'm currently learning JavaScritp, ReactJS.
  - 📫 How to reach me: malicicek1@gmail.com
  - 📍 Istanbul - TURKEY
+
+<br/>
+
+---
+
+<br/>
 
   ## 🔮 Tools, Technologies and Languages
 <p align="left">
