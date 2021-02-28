@@ -42,8 +42,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/-Ali%20ÇİÇEK-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/Ali ÇİÇEK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/m.alicicek-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
  <h4 align="right">Visitor's count :eyes:</h4>
