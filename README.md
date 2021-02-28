@@ -21,13 +21,6 @@
  
   ## 🔮 Tools, Technologies and Languages
 
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)<img align="right" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
-
-</details>
-  
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="visualStudio" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
@@ -41,6 +34,13 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGA_Vn2q5yCCEnB7qAT5IkwXvVfUB-pYEAQ&usqp=CAU" alt="jira" width="120" height="40" />
    <img src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg" alt="slack" width="60" height="40" />
 </p>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)<img align="right" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
+
+</details>
 
 <hr>
 
