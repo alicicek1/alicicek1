@@ -21,9 +21,14 @@
  
   ## 🔮 Tools, Technologies and Languages
 
-  [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/alicicek1/github-readme-stats)<img align="right" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+   [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)]     (https://github.com/alicicek1/github-readme-stats)<img align="right" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?    username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
 
 
+</details>
+  
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="visualStudio" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
@@ -39,12 +44,6 @@
 </p>
 
 <hr>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/Ali ÇİÇEK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ali-cicek/"><img src="https://img.shields.io/badge/m.alicicek-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
