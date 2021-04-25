@@ -12,7 +12,7 @@
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
  
 **I'm Ali ÇİÇEK, a Mechatronic Engineer who is Backend Developer.**
- - 🔭 I’m currently working on Web Development with ASP.NET Core.
+ - 🔭 I’m currently working on Web Development with ASP.NET Core and MVC.
  - 🌱 I'm currently learning JavaScript and React.
  - 📫 How to reach me: malicicek1@gmail.com
  - 📍 Istanbul - TURKEY
