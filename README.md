@@ -13,7 +13,7 @@
  
 **I'm Ali ÇİÇEK, a Mechatronic Engineer who is Backend Developer.**
  - 🔭 I’m currently working on Web Development with ASP.NET Core and MVC.
- - 🌱 I'm currently learning Java, JavaScript and React.
+ - 🌱 I'm currently learning JavaScript, Java and React.
  - 📫 How to reach me: malicicek1@gmail.com
  - 📍 Istanbul - TURKEY
  - [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ali-cicek/)
