@@ -3,8 +3,6 @@
    <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" alt="Welcome!" width="300" />
  </div>
 
-<br/>
- 
 <hr>
  
   ## 🔮 Tools, Technologies and Languages
@@ -17,13 +15,6 @@
    <img src="https://mpng.subpng.com/20180802/xcg/kisspng-kibana-elasticsearch-scalable-vector-graphics-logo-elastic-kibana-logo-svg-vector-amp-png-transpare-5b62e40d7ea162.8312868815332075655187.jpg" alt="kibana" width="40" height="40" />
    <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" class="imageright" alt="MongoDB Tutorial" width="40" height="40" />
 </p>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alicicek1&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)<img align="right" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicicek1&langs_count=10&theme=tokyonight&layout=compact" alt="alicicek1 :: Top Langs" />
-
-</details>
 
 <hr>
 
