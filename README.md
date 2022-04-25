@@ -15,7 +15,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Toad-Original_RGB.png" alt="toad" width="40" height="40" />
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlServer" width="40" height="40" />
    <img src="https://mpng.subpng.com/20180802/xcg/kisspng-kibana-elasticsearch-scalable-vector-graphics-logo-elastic-kibana-logo-svg-vector-amp-png-transpare-5b62e40d7ea162.8312868815332075655187.jpg" alt="kibana" width="40" height="40" />
-   <img alt="File:MongoDB Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png?20190626143224" decoding="async" width="512" height="138" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png?20190626143224 2x" data-file-width="512" data-file-height="40">
+   <img alt="File:MongoDB Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png?20190626143224" decoding="async" width="512" height="138" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png?20190626143224 2x"  width="40" height="40" />
 </p>
 
 <details>
