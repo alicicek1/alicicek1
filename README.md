@@ -1,23 +1,3 @@
-<div align="center">
-   <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ali ÇİÇEK</h1>
-   <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" alt="Welcome!" width="300" />
- </div>
-
-<hr>
- 
-  ## 🔮 Tools, Technologies and Languages
-
-<p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mySql" width="40" height="40" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Toad-Original_RGB.png" alt="toad" width="40" height="40" />
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlServer" width="40" height="40" />
-   <img src="https://mpng.subpng.com/20180802/xcg/kisspng-kibana-elasticsearch-scalable-vector-graphics-logo-elastic-kibana-logo-svg-vector-amp-png-transpare-5b62e40d7ea162.8312868815332075655187.jpg" alt="kibana" width="40" height="40" />
-   <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" class="imageright" alt="MongoDB Tutorial" width="40" height="40" />
-</p>
-
-<hr>
-
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
