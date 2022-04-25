@@ -49,4 +49,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 ----
-Credit: [Ali ÇİÇEK](https://github.com/alicicek1) <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=alicicek1.visitor-badge" alt="alicicek1 :: Visitor's Count" />
+Credit: [Ali ÇİÇEK](https://www.linkedin.com/in/ali-cicek/) <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=alicicek1.visitor-badge" alt="alicicek1 :: Visitor's Count" />
