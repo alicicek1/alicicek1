@@ -15,7 +15,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Toad-Original_RGB.png" alt="toad" width="40" height="40" />
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlServer" width="40" height="40" />
    <img src="https://mpng.subpng.com/20180802/xcg/kisspng-kibana-elasticsearch-scalable-vector-graphics-logo-elastic-kibana-logo-svg-vector-amp-png-transpare-5b62e40d7ea162.8312868815332075655187.jpg" alt="kibana" width="40" height="40" />
-   <img alt="MongoDB Logo" loading="lazy" src="https://api.civo.com/k3s-marketplace/mongodb.png" width="50" height="50" />
+   <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" class="imageright" alt="MongoDB Tutorial" width="40" height="40" />
 </p>
 
 <details>
