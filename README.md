@@ -4,19 +4,6 @@
  </div>
 
 <br/>
-
----
-
-<br/>
-
- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
- 
-**I'm Ali ÇİÇEK, a Mechatronic Engineer who is Backend Developer.**
- - 🔭 I’m currently working on Web Development with ASP.NET Core and MVC.
- - 🌱 I'm currently learning JavaScript, Java.
- - 📫 How to reach me: malicicek1@gmail.com
- - 📍 Istanbul - TURKEY
- - [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ali-cicek/)
  
 <hr>
  
@@ -72,7 +59,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
 </div>
 
 
