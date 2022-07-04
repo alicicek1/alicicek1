@@ -26,7 +26,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
 </div>
-
-
-----
 Credit: [Ali ÇİÇEK](https://www.linkedin.com/in/ali-cicek/) <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=alicicek1.visitor-badge" alt="alicicek1 :: Visitor's Count" />
